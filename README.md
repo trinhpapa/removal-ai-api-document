@@ -10,9 +10,6 @@
 <img src='./images/background remover.png' alt='background remover' height="300">
 </p>
 
-
-
-
 <br/>
 This tool is suitable for multiple purposes, from professional Photography, Media to eCommerce. There are a lot more benefits from different aspects.<br/>
 <br/>
@@ -56,7 +53,7 @@ Using Artificial Intelligence technology to quickly and efficiently separate the
 ### Headers:
 @header: ***___Rm-Token___*** <br/>
 - Your secrete token. Located in your header.
-
+git 
 *************************************************************
 <br/>
 

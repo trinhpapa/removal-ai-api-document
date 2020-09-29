@@ -69,7 +69,7 @@ git
 *************************************************************
 <br/>
 
-***API Endpoint***: https://api.removal.ai/2.0/account/update-token/ <br/>
+***API Endpoint***: https://api.removal.ai/2.0/account/refresh-token/ <br/>
 ***Method***: PUT
 ***Usage***: Generate new token.
 

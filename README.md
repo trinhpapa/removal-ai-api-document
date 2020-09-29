@@ -6,9 +6,9 @@
 <a href='https://removal.ai'>Removal.ai</a> is an online background remover that can quickly remove background from image within a few seconds using AI technology.
 <br/>
 <br/>
-<div style='text-align:center'>
+<p align="center">
 <img src='./images/background remover.png' alt='background remover' height="300">
-</div>
+</p>
 
 
 

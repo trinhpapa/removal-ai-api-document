@@ -25,7 +25,7 @@ Using Artificial Intelligence technology to quickly and efficiently separate the
 
 <br/>
 
-## API Specifications
+## API V2.0 Specifications
 <a href='https://removal.ai'>Removal.ai</a> API is a REST API that can be easily integrated.
 
 ***API Endpoint***: https://api.removal.ai/2.0/remove/ <br/>
